@@ -1,0 +1,19 @@
+{
+  "name": "jsclousuresandscope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1DiegoG1/JSclousuresAndScope.git"
+  },
+  "author": "Diego González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1DiegoG1/JSclousuresAndScope/issues"
+  },
+  "homepage": "https://github.com/1DiegoG1/JSclousuresAndScope#readme"
+}
